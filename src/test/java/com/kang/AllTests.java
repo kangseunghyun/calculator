@@ -3,7 +3,6 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
 
-import com.kang.calculator.Calculator;
 import com.kang.calculator.CalculatorTest;
 import com.kang.hello.HelloWorldTest;
 import com.kang.hello.StringUtilsTest;
