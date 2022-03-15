@@ -8,7 +8,7 @@ import org.junit.Test;
 
 
 
-class HelloWorldTest {
+public class HelloWorldTest {
 	private HelloWorld hello;
 	
 	@Before
@@ -16,7 +16,7 @@ class HelloWorldTest {
 		hello = new HelloWorld();
 	}
 	@org.junit.Test
-	void test() {
+	public void test() {
 		String msg = hello.getMessage();
 		assertEquals("Hello World", msg);
 	}
