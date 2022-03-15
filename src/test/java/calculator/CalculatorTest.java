@@ -28,6 +28,7 @@ public class CalculatorTest {
 	public void testDivide() {
 		assertEquals(1, Calculator.div(2, 2));
 	}
+	
 
 
 }
