@@ -12,7 +12,8 @@ import com.kang.hello.StringUtilsTest;
 @SuiteClasses({
 	CalculatorTest.class,
 	HelloWorldTest.class,
-	StringUtilsTest.class
+	StringUtilsTest.class,
+	DateTest.class
 })
 public class AllTests {
 
